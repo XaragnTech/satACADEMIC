@@ -1,0 +1,4 @@
+
+******************commande creation d'un model avec la migration de la table dans laravel****************
+
+        php artisan make:model Settings --migration
